@@ -17,7 +17,7 @@ title: "Ghulam Rasoul Zaini | Assistant Professor, FU"
 			Beside the Education Faculty's counsil board membership, I am researching on Data Science and it's techniques to be studied in Afghan universities' computer science faculties and it will results to scale up my academic degree (from Pohanyar to Pohanmal). The research will be completed at most three years. <br/>
 			I have completed some semester-based projects and research with students from computer science department and I am looking again to some interesed students to work with me on some other useful projects. Usually the projects are based on problem-solving manner.
 		</p>
-		<div class="alert alert-warning" role="alert" markdown="1">
+		<div class="alert alert-warning" role="alert">
 			I am looking to motivated and qualified students to work with me to build computer-based evaluation system of accreditation and qualification committee of Faryab University.
 		</div>
 	</div>
